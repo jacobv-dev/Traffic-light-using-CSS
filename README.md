@@ -1,2 +1,1 @@
-# Traffic-light-using-CSS
-🚦
+# Traffic light using CSS 🚦
